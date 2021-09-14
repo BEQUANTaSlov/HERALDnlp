@@ -202,7 +202,6 @@ def run(mode, sub, num_submissions):
       sys.stdout = open("Tweet_Output.txt", 'a') #this is because running the code from the command line does not work unless the actual algo and its tweet posting script are seperate.  As such, to save the output it is saved in a .txt file that is deleted at the start of every run and then recreated.
    text += "\n\n% = %people bullish"
 
-   # post to the subreddit if it is in bot mode (i.e. not testing)
    if not mode:
       print("Error")
    # testing
@@ -244,88 +243,6 @@ if __name__ == "__main__":
    sub = "wallstreetbets"
 
    run(mode, sub, num_submissions)
-    #new post analysis
-#time.sleep(60)
-#with open('Tweet_Output.txt','r') as file:
- #   status = file.read()
-    #print(directmessage)
-#else:
-    
- #   with open('Tweet_Output.txt','r') as file:
-  #      directmessage = file.read()
-        
-#import tweepy
-
-#CONSUMER_KEY = 'csh4Fe6ERZXxxmwuWPItc2qf5'
-#CONSUMER_SECRET = '39xMxRVjpirLgXwUCawKjf9H3AyIL0RxtwrpikHh70cafPCREH'
-#ACCESS_TOKEN = '1386831684121866242-WvFuYtg5Cg9FO2vL9fkV6WzldDGpmK'
-#ACCESS_TOKEN_SECRET = '3q6YBwpDGRcYDB0gVHLpzYUae0SQQy7FBdu7S9yTUeo3A'
-
-#with open('Tweet_Output.txt','r') as file:
- #   status = file.read()
-
-#auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-#auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
-#api = tweepy.API(auth)
-
-#status = "this is a test"
-#status = directmessage
-#api.update_status(status=status)
-        
-        
-#from TwitterAPI import TwitterAPI
-#import json
-
-#api = Twitter.Api(consumer_key="TGcAxA2wGsV9Zuw8mb0zwlApz",
- #                 consumer_secret="8ot6hDzVqRhrajXp0Or8zHsbmpgGv1P4rEH0yFIN8r0JFyKhZT",
-  #                access_token_key="1256435044522082304-v6RAOg0afO6PGR4YRONSd4wOlrcxHi",
-   #               access_token_secret="RrRPXc9ZwpcAbLqX7vsnZVgUTU2jlXTCxwg04F2OVkNnp")
-
-##user_id = <user id of the recipient>
-#user_id = BEQUANT_BOT
-##message_text = (text)
-#message_text = directmessage
-#event = {
- #   "event": {
-  #      "type": "message_create",
-   #     "message_create": {
-    #        "target": {
-     #           "recipient_id": user_id
-      #      },
-       #     "message_data": {
-        #        "text": message_text
-         #   }
-#        }
- #   }
-#}
-
-#r = api.request('direct_messages/events/new', json.dumps(event))
-#print('SUCCESS' if r.status_code == 200 else 'PROBLEM: ' + r.text)
-
-
-# In[2]:
-
-
-#import tweepy
-
-#CONSUMER_KEY = 'csh4Fe6ERZXxxmwuWPItc2qf5'
-#CONSUMER_SECRET = '39xMxRVjpirLgXwUCawKjf9H3AyIL0RxtwrpikHh70cafPCREH'
-#ACCESS_TOKEN = '1386831684121866242-WvFuYtg5Cg9FO2vL9fkV6WzldDGpmK'
-#ACCESS_TOKEN_SECRET = '3q6YBwpDGRcYDB0gVHLpzYUae0SQQy7FBdu7S9yTUeo3A'
-
-#with open('TWeet_Output.txt','r') as file:
- #  status = file.read()
-
-#auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-#auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
-#api = tweepy.API(auth)
-
-#with open('Tweet_Output.txt','r') as file:
- #  status = file.read()
-#status = "this is a test"
-#status = directmessage
-#api.update_status(status=status)
-
 
 # In[ ]:
 
