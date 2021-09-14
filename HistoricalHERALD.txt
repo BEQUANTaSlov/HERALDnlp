@@ -1,0 +1,95 @@
+Date:  2021-06-22 00:26:05
+A BEQUANT.ORG Model: The top ten stocks discussed on /r/wallstreetbets along with NLP analysis:
+
+Ticker | Mentions | Bullish (%) | Neutral (%) | Bearish (%)
+:- | :- | :- | :- | :-
+$WISH | [173 mentions (31% of all mentions)] | 95 | 0 | 4
+$BB | [55 mentions (10% of all mentions)] | 49 | 41 | 9
+$CLF | [23 mentions (4% of all mentions)] | 52 | 39 | 8
+$CLOV | [20 mentions (3% of all mentions)] | 35 | 60 | 5
+$CLNE | [12 mentions (2% of all mentions)] | 41 | 50 | 8
+$WKHS | [11 mentions (2% of all mentions)] | 45 | 36 | 18
+$TSLA | [11 mentions (2% of all mentions)] | 27 | 63 | 9
+$AMC | [10 mentions (1% of all mentions)] | 50 | 30 | 20
+$PRPL | [9 mentions (1% of all mentions)] | 55 | 22 | 22
+$BIG | [9 mentions (1% of all mentions)] | 44 | 22 | 33
+$H | [8 mentions (1% of all mentions)] | 50 | 25 | 25
+$ET | [8 mentions (1% of all mentions)] | 37 | 50 | 12
+$PLTR | [8 mentions (1% of all mentions)] | 87 | 12 | 0
+$SPY | [8 mentions (1% of all mentions)] | 37 | 37 | 25
+$DKNG | [7 mentions (1% of all mentions)] | 57 | 28 | 14
+$GME | [7 mentions (1% of all mentions)] | 42 | 28 | 28
+$RIDE | [6 mentions (1% of all mentions)] | 50 | 16 | 33
+$GSAT | [6 mentions (1% of all mentions)] | 0 | 66 | 33
+$AMD | [5 mentions (<1% of all mentions)] | 40 | 40 | 20
+$TLRY | [5 mentions (<1% of all mentions)] | 40 | 60 | 0
+$ASO | [4 mentions (<1% of all mentions)] | 75 | 25 | 0
+$CRSR | [4 mentions (<1% of all mentions)] | 50 | 0 | 50
+$RKT | [4 mentions (<1% of all mentions)] | 25 | 50 | 25
+$NOK | [4 mentions (<1% of all mentions)] | 75 | 25 | 0
+$SOFI | [3 mentions (<1% of all mentions)] | 0 | 33 | 66
+$X | [3 mentions (<1% of all mentions)] | 33 | 66 | 0
+$ROOT | [3 mentions (<1% of all mentions)] | 0 | 66 | 33
+$NVIDIA | [3 mentions (<1% of all mentions)] | 100 | 0 | 0
+$PINS | [3 mentions (<1% of all mentions)] | 100 | 0 | 0
+$WISHING | [2 mentions (<1% of all mentions)] | 50 | 0 | 50
+$CPNG | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$CBDL | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$SKLZ | [2 mentions (<1% of all mentions)] | 100 | 0 | 0
+$WOOF | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$AMZN | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$CORN | [2 mentions (<1% of all mentions)] | 0 | 100 | 0
+$WEN | [2 mentions (<1% of all mentions)] | 0 | 100 | 0
+$BABA | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$NVDA | [2 mentions (<1% of all mentions)] | 50 | 0 | 50
+$TRCH | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+
+Version Alpha - Developed April 2021, Updated May 2021 - Aidan Slovinski.
+*****************************************************************
+Date:  2021-06-22 22:36:06
+A BEQUANT.ORG Model: The top ten stocks discussed on /r/wallstreetbets along with NLP analysis:
+
+Ticker | Mentions | Bullish (%) | Neutral (%) | Bearish (%)
+:- | :- | :- | :- | :-
+$WISH | [192 mentions (34% of all mentions)] | 90 | 1 | 7
+$CLOV | [53 mentions (9% of all mentions)] | 32 | 58 | 9
+$BB | [37 mentions (6% of all mentions)] | 32 | 56 | 10
+$CLNE | [16 mentions (2% of all mentions)] | 25 | 62 | 12
+$H | [15 mentions (2% of all mentions)] | 20 | 53 | 26
+$CLF | [14 mentions (2% of all mentions)] | 35 | 42 | 21
+$PRPL | [13 mentions (2% of all mentions)] | 53 | 23 | 23
+$BIG | [13 mentions (2% of all mentions)] | 61 | 15 | 23
+$RIDE | [11 mentions (1% of all mentions)] | 45 | 36 | 18
+$AMC | [9 mentions (1% of all mentions)] | 33 | 66 | 0
+$WKHS | [8 mentions (1% of all mentions)] | 50 | 50 | 0
+$ASO | [8 mentions (1% of all mentions)] | 75 | 25 | 0
+$AMD | [7 mentions (1% of all mentions)] | 71 | 28 | 0
+$DKNG | [6 mentions (1% of all mentions)] | 33 | 66 | 0
+$GSAT | [6 mentions (1% of all mentions)] | 50 | 16 | 33
+$ET | [6 mentions (1% of all mentions)] | 50 | 50 | 0
+$SKLZ | [6 mentions (1% of all mentions)] | 50 | 50 | 0
+$SOFI | [5 mentions (<1% of all mentions)] | 0 | 60 | 40
+$UWMC | [4 mentions (<1% of all mentions)] | 25 | 25 | 50
+$TLRY | [4 mentions (<1% of all mentions)] | 50 | 50 | 0
+$CRSR | [4 mentions (<1% of all mentions)] | 75 | 0 | 25
+$COIN | [4 mentions (<1% of all mentions)] | 50 | 25 | 25
+$SPY | [4 mentions (<1% of all mentions)] | 75 | 25 | 0
+$PLTR | [3 mentions (<1% of all mentions)] | 33 | 66 | 0
+$RKT | [3 mentions (<1% of all mentions)] | 0 | 100 | 0
+$PSFE | [3 mentions (<1% of all mentions)] | 100 | 0 | 0
+$X | [3 mentions (<1% of all mentions)] | 66 | 33 | 0
+$WOOF | [3 mentions (<1% of all mentions)] | 33 | 66 | 0
+$KBH | [3 mentions (<1% of all mentions)] | 33 | 0 | 66
+$GME | [3 mentions (<1% of all mentions)] | 66 | 0 | 33
+$KGC | [3 mentions (<1% of all mentions)] | 33 | 66 | 0
+$DNUT | [2 mentions (<1% of all mentions)] | 50 | 0 | 50
+$AMZN | [2 mentions (<1% of all mentions)] | 0 | 100 | 0
+$SCR | [2 mentions (<1% of all mentions)] | 0 | 100 | 0
+$TUP | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$BGS | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+$DG | [2 mentions (<1% of all mentions)] | 100 | 0 | 0
+$EHANG | [2 mentions (<1% of all mentions)] | 0 | 100 | 0
+$RECAF | [2 mentions (<1% of all mentions)] | 0 | 50 | 50
+$OCGN | [2 mentions (<1% of all mentions)] | 50 | 50 | 0
+
+Version Alpha - Developed April 2021, Updated May 2021 - Aidan Slovinski.

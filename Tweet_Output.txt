@@ -1,0 +1,14 @@
+
+Sentiment/Interest #WallStreetBets
+
+A BEQUANT Model | Top stocks on WSB:
+$WISH | [68 mntns] 91%
+$PSFE | [25 mntns] 44%
+$SPCE | [23 mntns] 52%
+$CLOV | [22 mntns] 45%
+$CLF | [18 mntns] 44%
+$BB | [17 mntns] 17%
+$TSLA | [15 mntns] 53%
+$PLTR | [13 mntns] 53%
+
+% = %people bullish
